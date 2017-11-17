@@ -2,7 +2,6 @@
 /build/
 !gradle/wrapper/gradle-wrapper.jar
 /data/
-/gradle/
 /bin/
 /LOG_PATH_IS_UNDEFINED
 
